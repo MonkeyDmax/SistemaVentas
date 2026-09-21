@@ -1,0 +1,6 @@
+id_producto,nombre,categoria,precio_compra,precio_venta,stock
+1,Lápiz,Escolar,4.00,8.00,100
+2,Borrador,Escolar,2.00,5.00,80
+3,Cuaderno,Escolar,15.00,25.00,40
+4,Pelota,Juguete,30.00,50.00,20
+5,Muñeca,Juguete,100.00,150.00,10
